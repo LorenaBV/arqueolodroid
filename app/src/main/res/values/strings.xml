@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ArqueoloDroid</string>
+    <string name="title_activity_maps">Ubicación del mineral</string>
+    <array name="colores">
+        <item>Sin color</item>
+        <item>Transparente</item>
+    </array>
+    <array name="pulido">
+        <item>Suave</item>
+        <item>Pobre</item>
+        <item>Frotado</item>
+        <item>Sin frotar</item>
+    </array>
+</resources>
